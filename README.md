@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/license-MIT-purple)
 ![NOXIS](https://img.shields.io/badge/NOXIS-Terminal-blueviolet)
 ![CRYON](https://img.shields.io/badge/CRYON-AI-lightblue)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black)]([https://github.com/your-username/noxis])
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black)](https://github.com/your-username/noxis)
 
 # NOXIS Terminal
 ### The first product under CRYON.
