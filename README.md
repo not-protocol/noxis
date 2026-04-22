@@ -1,9 +1,18 @@
 ![Node.js](https://img.shields.io/badge/Node.js-CLI-green)
+
 ![CLI](https://img.shields.io/badge/type-terminal-black)
+
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue)
+
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey)
+
 ![License](https://img.shields.io/badge/license-MIT-purple)
+
+![NOXIS](https://img.shields.io/badge/NOXIS-Terminal-blueviolet)
+
+![CRYON](https://img.shields.io/badge/CRYON-AI-lightblue)
 
 # NOXIS Terminal
 ### The first product under CRYON.
