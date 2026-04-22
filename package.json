@@ -1,0 +1,19 @@
+{
+  "name": "noxis",
+  "version": "1.0.0",
+  "description": "NOXIS Terminal — powered by CRYON",
+  "main": "index.js",
+  "bin": {
+    "noxis": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["noxis", "cryon", "terminal", "cli"],
+  "author": "CRYON Ecosystem",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
